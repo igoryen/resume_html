@@ -43,7 +43,6 @@
 				} // for
 			} // dispenser()
 
-
 			var fullname = "igor entaltsev";
 			var address = "102-2980, Don Mills Rd, North York, ON, M2J 3B9";
 			var phone = "647-703-6200";
